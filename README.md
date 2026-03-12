@@ -111,12 +111,11 @@ vim +PlugInstall
 ## 📁 Структура проекта
 
 sysadmin-vim/
-├── PKGBUILD # для сборки в AUR
-├── .SRCINFO # метаданные для AUR
-├── vimrc # основной конфиг Vim
-├── README.md # этот файл
-└── LICENSE # MIT лицензия
-
+├── PKGBUILD          # для сборки в AUR
+├── .SRCINFO          # метаданные для AUR
+├── vimrc             # основной конфиг Vim
+├── README.md         # этот файл
+└── LICENSE           # MIT лицензия
 
 ## 🤝 Как помочь проекту
 
