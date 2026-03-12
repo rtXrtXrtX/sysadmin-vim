@@ -88,7 +88,7 @@ vim +PlugInstall
 :bp              " предыдущий буфер
 :terminal        " открыть терминал внутри Vim
 :e scp://user@server//path " открыть файл на сервере
-
+```
 
 ## 🎯 Для кого этот проект
 
@@ -125,6 +125,9 @@ sysadmin-vim/
 3. Закоммить изменения (`git commit -m 'Add amazing feature'`)
 4. Запушь (`git push origin feature/amazing`)
 5. Открой Pull Request
+
+## 󱈸 Так же буду благодарен всем кто
+1. Протестирует поставку редактора на PS3 с установленным Linux (CFW) 
 
 ## 📄 Лицензия
 
