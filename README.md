@@ -5,7 +5,7 @@
 [![AUR](https://img.shields.io/aur/version/sysadmin-vim)](https://aur.archlinux.org/packages/sysadmin-vim)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-
+```ascii
        ▄▄▄▄▄ ▀▄    ▄  ▄▄▄▄▄   ██   ██▄   █▀▄▀█ ▄█    ▄   
       █     ▀▄ █  █  █     ▀▄ █ █  █  █  █ █ █ ██     █  
     ▄  ▀▀▀▀▄    ▀█ ▄  ▀▀▀▀▄   █▄▄█ █   █ █ ▄ █ ██ ██   █ 
@@ -20,7 +20,7 @@
                       █  █   ▐    █                      
                        █▐        ▀                       
                        ▐                                 
-
+```
 
 
 ## 📦 О проекте
