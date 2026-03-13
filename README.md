@@ -31,6 +31,7 @@
 
 ```bash
 yay -S sysadmin-vim
+```
 
 Или с помощью paru:
 
@@ -44,7 +45,7 @@ install-sysadmin-vim   # скопирует конфиг в ~/.vimrc
 vim +PlugInstall       # установит плагины
 ```
 
-###Ручная установка
+### Ручная установка
 ```bash
 git clone https://github.com/твой-username/sysadmin-vim.git
 cd sysadmin-vim
