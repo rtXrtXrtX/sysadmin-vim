@@ -126,6 +126,7 @@ vim +PlugInstall
 - Python 3
 - Node.js
 - Go
+- gvim
 
 ## 📁 Структура проекта
 
